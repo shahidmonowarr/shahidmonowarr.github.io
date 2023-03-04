@@ -1,0 +1,27 @@
+.project-section{
+    background: #7F00FF; 
+    background: -webkit-linear-gradient(to right, #240b27, #26113b); 
+    background: linear-gradient(to right, #231425, #300758);
+}
+.project-section img:hover{
+ background-position: bottom;
+ 
+}
+.details-btn{
+    color: rgb(11, 200, 233);
+    background: none;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 3px;
+    border-radius: 4px;
+    border: 2px;
+    border-style: solid;
+    border-color: transparent;
+}
+.details-btn:hover{
+    border-radius: 4px;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(9, 65, 102);
+    
+}
